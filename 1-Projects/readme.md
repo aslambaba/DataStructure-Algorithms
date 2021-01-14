@@ -22,4 +22,12 @@ Bus             Rs. 30 per day
 15% income tax if the salary is between Rs. 20000
 10% income tax if the salary is below 20000
 Finally the program displays salary, income tax and net salary.
-
+- Question#8- Write a program that inputs  a five digit number and displays the sum of its digits using a loop.
+- Question#9 - write a program that inputs a sentence from the user and counts the number of words and characters in the sentence. Note : the sentence ends on ‘.’.
+- Question#10 - Q3- Write a program that displays the following
+            	2
+            	3          	6
+            	4          	8          	12
+            	5          	10       	15       	20
+            	6          	12       	18       	24       	30
+- Question#11 - Write a program to ad the first seven terms of the following series using for loop  1/1! + 2/2! + … + 7/7!.
