@@ -31,3 +31,7 @@ Finally the program displays salary, income tax and net salary.
             	5          	10       	15       	20
             	6          	12       	18       	24       	30
 - Question#11 - Write a program to ad the first seven terms of the following series using for loop  1/1! + 2/2! + … + 7/7!.
+- Question#12 - Write a program that uses three arrays of mango, Orange and Banana to store the number of fruits purchased by the customer. The program inputs the number of mangoes, oranges and bananas to be purchased by the customer and stores them in corresponding arrays. Then program finally displays the total bill for each customer according to the prices: Rs.20 per mango, Rs.10 per orange, Rs.5 per banana.
+- Question#13 - Write a program that inputs the names and monthly salaries of 10 employees. The program checks the annual salary of each person. If annual salary is greater than or equal to Rs.250000/- then it prints name, salary and message ”Tax to be paid” else it prints name salary and message “NO Tax”.
+- Question#14 - Write a program that displays all values of the given array in the form of a matrix and finds its  sum:   array values are {{6,3},{7,8},{4,5}} hint : Declare 2-D array
+- Question#15 - Write a program that uses two arrays to store the roll number and marks of students. It inputs roll numbers and marks of five students and stores them in corresponding elements of the arrays. The program finally displays the roll and marks of the student with highest marks.
