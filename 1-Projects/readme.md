@@ -37,3 +37,11 @@ Finally the program displays salary, income tax and net salary.
 - Question#15 - Write a program that uses two arrays to store the roll number and marks of students. It inputs roll numbers and marks of five students and stores them in corresponding elements of the arrays. The program finally displays the roll and marks of the student with highest marks.
 - Question#16 - Write a program that inputs two numbers and one arithmetic operator in the main function and passes them to a function. The function applies arithmetic operation on two numbers on the basis of the operator entered by user using switch statement.
 - Question#17 - Write a program that input array of 10 elements. And then ask the user to give number. The program should find the number from array and displays the message “Value is found” if value exists in array. You should pass this array to a function name ”FindValue” and return the value as True or false in main.
+- Question#18 -  Write a program that inputs the following record of cricketers:
+·         Player’s name
+·         Runs
+·         Innings
+·         Times not out
+The program should declare a structure / class to store the above data values. The program should declare an array of structure of two elements to input the records of five cricketers and then display the cricketer who make highest run.
+- Question#19 - Write a class Book that has the attributes pages, price and title. It has two functions to input the values and display the values create three objects of the class and input values by using input statement and also using default constructer. The class also has display function to display values of all books.
+After given values of Book the program should display total value for three books.
